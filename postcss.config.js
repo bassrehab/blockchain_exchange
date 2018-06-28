@@ -1,0 +1,2 @@
+/** Subhadip Mitra */
+module.exports = {};
